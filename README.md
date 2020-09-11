@@ -18,6 +18,8 @@ This repository contains a detailed sample app that implements MVVM architecture
 <br>
 <br>
 
+Hola como va?
+
 #### The app has following packages:
 1. **data**: It contains all the data accessing and manipulating components.
 2. **di**: Dependency providing classes using Dagger2.
