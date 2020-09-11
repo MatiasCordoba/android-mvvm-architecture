@@ -1,4 +1,4 @@
-# Android MVVM Architecture: Sample App
+# Android MVVM Architecture: Sample Apps
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
